@@ -4,7 +4,7 @@ var pgsql = require('../src/db/pgsql')
 
 module.exports = {
   api: {
-    token: 'api-token'
+    token: '474609801:AAFZHkYRy-ARCGZXIWWRNkhyUTtXUZucv7s'
   },
   db: pgsql({
     user: 'pdfbot',
